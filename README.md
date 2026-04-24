@@ -50,7 +50,7 @@ install.packages(c("shiny", "bslib", "ranger", "caret", "ggplot2"))
 shiny::runGitHub("MRI-PDFF-Calculator", "zionstar12")
 ```
 
-Or clone the repository manually:
+Or clone the repository manually
 
 ```bash
 git clone https://github.com/zionstar12/MRI-PDFF-Calculator.git
@@ -103,7 +103,7 @@ Yonsei University College of Medicine, Seoul, South Korea.
 
 - **DY Kim**: Dept. of Hepatology, Yonsei University College of Medicine
 - **HS Zhang**: Dept. of Biomedical Systems Informatics, Yonsei University College of Medicine
-- **BK Kim** (Correspondence: BEOMKKIM@yuhs.ac): Dept. of Hepatology, Yonsei University College of Medicine
+- **BK Kim** (Correspondence to BEOMKKIM@yuhs.ac): Dept. of Hepatology, Yonsei University College of Medicine
 
 ## License
 
