@@ -86,7 +86,7 @@ For full methodological details, an associated manuscript will be soon available
 
 ## Disclaimer
 
-> **⚠ Research Use Only.** This calculator is intended for research purposes only and has not been externally validated for clinical decision-making. Predictions are based on Random Forest models trained on a specific study cohort and may not generalise to all patient populations. MRI-PDFF remains the reference standard for hepatic fat quantification.
+> **⚠ Research Use Only.** This calculator is intended for research purposes only and has not been externally validated for clinical decision-making. Predictions are based on Random Forest models trained on a specific study cohort and may not generalize to all patient populations. MRI-PDFF remains the reference standard for hepatic fat quantification.
 
 ## Citation
 
